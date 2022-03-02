@@ -13,3 +13,4 @@ winget install -e --id RocketChat.RocketChat
 winget install -e --id Mirantis.Lens
 winget install -e --id 7zip.7zip
 winget install -e --id EpicGames.EpicGamesLauncher
+winget install -e --id Git.Git
