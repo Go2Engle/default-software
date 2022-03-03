@@ -15,3 +15,4 @@ winget install -e --accept-package-agreements --accept-source-agreements --id 7z
 winget install -e --accept-package-agreements --accept-source-agreements --id EpicGames.EpicGamesLauncher
 winget install -e --accept-package-agreements --accept-source-agreements --id Git.Git
 winget install -e --accept-package-agreements --accept-source-agreements --id Inkscape.Inkscape
+winget install -e --accept-package-agreements --accept-source-agreements --id FreeCAD.FreeCAD
