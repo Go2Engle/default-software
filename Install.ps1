@@ -12,7 +12,7 @@ winget install -e --accept-package-agreements --accept-source-agreements --id Di
 winget install -e --accept-package-agreements --accept-source-agreements --id RocketChat.RocketChat
 winget install -e --accept-package-agreements --accept-source-agreements --id Mirantis.Lens
 winget install -e --accept-package-agreements --accept-source-agreements --id 7zip.7zip
-winget install -e --accept-package-agreements --accept-source-agreements --id EpicGames.EpicGamesLauncher
+#winget install -e --accept-package-agreements --accept-source-agreements --id EpicGames.EpicGamesLauncher
 winget install -e --accept-package-agreements --accept-source-agreements --id Git.Git
 winget install -e --accept-package-agreements --accept-source-agreements --id Inkscape.Inkscape
 winget install -e --accept-package-agreements --accept-source-agreements --id FreeCAD.FreeCAD
