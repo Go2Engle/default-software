@@ -14,3 +14,4 @@ winget install -e --accept-package-agreements --accept-source-agreements --id Mi
 winget install -e --accept-package-agreements --accept-source-agreements --id 7zip.7zip
 winget install -e --accept-package-agreements --accept-source-agreements --id EpicGames.EpicGamesLauncher
 winget install -e --accept-package-agreements --accept-source-agreements --id Git.Git
+winget install -e --accept-package-agreements --accept-source-agreements --id Inkscape.Inkscape
