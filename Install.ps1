@@ -16,3 +16,7 @@ winget install -e --accept-package-agreements --accept-source-agreements --id 7z
 winget install -e --accept-package-agreements --accept-source-agreements --id Git.Git
 winget install -e --accept-package-agreements --accept-source-agreements --id Inkscape.Inkscape
 winget install -e --accept-package-agreements --accept-source-agreements --id FreeCAD.FreeCAD
+winget install -e --accept-package-agreements --accept-source-agreements --id PrivateInternetAccess.PrivateInternetAccess
+winget install -e --accept-package-agreements --accept-source-agreements --id WireGuard.WireGuard
+winget install -e --accept-package-agreements --accept-source-agreements --id OBSProject.OBSStudio
+winget install -e --accept-package-agreements --accept-source-agreements --id VideoLAN.VLC
