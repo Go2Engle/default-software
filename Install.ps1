@@ -3,7 +3,8 @@ winget install -e --accept-package-agreements --accept-source-agreements --id Ul
 winget install -e --accept-package-agreements --accept-source-agreements --id Mozilla.Firefox
 winget install -e --accept-package-agreements --accept-source-agreements --id Notepad++.Notepad++
 winget install -e --accept-package-agreements --accept-source-agreements --id Microsoft.VisualStudioCode
-winget install -e --accept-package-agreements --accept-source-agreements --id Valve.Steamwinget install -e --id suse.RancherDesktop
+winget install -e --accept-package-agreements --accept-source-agreements --id Valve.Steamwinget 
+winget install -e --accept-package-agreements --accept-source-agreements --id suse.RancherDesktop
 winget install -e --accept-package-agreements --accept-source-agreements --id mRemoteNG.mRemoteNG
 winget install -e --accept-package-agreements --accept-source-agreements --id Greenshot.Greenshot
 winget install -e --accept-package-agreements --accept-source-agreements --id Joplin.Joplin
