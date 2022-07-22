@@ -1,5 +1,5 @@
-winget install -e --accept-package-agreements --accept-source-agreements --id Prusa3D.PrusaSlicer
-winget install -e --accept-package-agreements --accept-source-agreements --id Ultimaker.Cura
+#winget install -e --accept-package-agreements --accept-source-agreements --id Prusa3D.PrusaSlicer
+#winget install -e --accept-package-agreements --accept-source-agreements --id Ultimaker.Cura
 winget install -e --accept-package-agreements --accept-source-agreements --id Mozilla.Firefox
 winget install -e --accept-package-agreements --accept-source-agreements --id Notepad++.Notepad++
 winget install -e --accept-package-agreements --accept-source-agreements --id Microsoft.VisualStudioCode
@@ -11,7 +11,9 @@ winget install -e --accept-package-agreements --accept-source-agreements --id Jo
 winget install -e --accept-package-agreements --accept-source-agreements --id GitHub.GitHubDesktop
 winget install -e --accept-package-agreements --accept-source-agreements --id Discord.Discord
 winget install -e --accept-package-agreements --accept-source-agreements --id RocketChat.RocketChat
+winget install -e --accept-package-agreements --accept-source-agreements --id Mattermost.MattermostDesktop
 winget install -e --accept-package-agreements --accept-source-agreements --id Mirantis.Lens
+winget install -e --accept-package-agreements --accept-source-agreements --id Zoom.Zoom
 winget install -e --accept-package-agreements --accept-source-agreements --id 7zip.7zip
 #winget install -e --accept-package-agreements --accept-source-agreements --id EpicGames.EpicGamesLauncher
 winget install -e --accept-package-agreements --accept-source-agreements --id Git.Git
